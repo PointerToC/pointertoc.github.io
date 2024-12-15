@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "ba4de91f2bee2bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f6592cb8eef071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "101bfc015c4bde3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/hexo-github-pages搭建博客记录.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hexo-github-pages搭建博客记录"
+            },
+            "group": "dc95807006a1b1af"
+          }
+        ]
+      },
+      {
+        "id": "7d8b2ddb3aba1724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616eb039639608d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/hexo-github-pages搭建博客记录.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hexo-github-pages搭建博客记录"
+            },
+            "group": "dc95807006a1b1af"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b4bda1f3cb83599",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3e4dd4c4589122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d23b2ef951f7463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "606a2a80a2d64c2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2f03dfb53b758044",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af024567a3f52a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d0e17fa264faa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91aa4c0bff742351",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/hexo-github-pages搭建博客记录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "hexo-github-pages搭建博客记录 的反向链接列表"
+            }
+          },
+          {
+            "id": "cf8ed0499ea4f465",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/hexo-github-pages搭建博客记录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "hexo-github-pages搭建博客记录 的出链列表"
+            }
+          },
+          {
+            "id": "5ca0cc447087aa08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "62f6305ba55e901c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/hexo-github-pages搭建博客记录.md"
+              },
+              "icon": "lucide-list",
+              "title": "hexo-github-pages搭建博客记录 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "101bfc015c4bde3c",
+  "lastOpenFiles": [
+    "db.json",
+    "public/img/ghost-img.png",
+    "public/archives/2024/index.html",
+    "public/404.html",
+    "public/img/screenshot.png",
+    "public/img/logo.svg",
+    "public/img/favicon.ico",
+    "public/js/scrollreveal.min.js",
+    "public/js/main.js",
+    "public/js/highlightjs-line-numbers.js",
+    "public/js/highlight.min.js",
+    "public/js",
+    "public/fonts/montserrat-v23-latin-regular.woff2",
+    "public/css/style.css",
+    "public/img/apple-touch-icon.png",
+    "source/_posts/音视频开发基础.md",
+    "source/_posts/hexo-github-pages搭建博客记录.md",
+    "source/_posts/2024-12-8-2024年搭建博客踩坑记录.md",
+    "source/_posts/hello-world.md"
+  ]
+}
